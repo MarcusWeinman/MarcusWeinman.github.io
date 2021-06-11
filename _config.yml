@@ -57,6 +57,13 @@ defaults:
 atom_feed:
   hide: true
 
+author:
+  name     : "Marcus Weinman"
+  avatar   : "/assets/images/marcus_head.png"
+  bio      : "Current PhD student at the University of Vermont. All hot takes are my own."
+  location : "Burlington, Vermont"
+
+
 timezone: America/New_York
 minimal_mistakes_skin: contrast
 repository: "marcusweinman/marcusweinman.github.io"
