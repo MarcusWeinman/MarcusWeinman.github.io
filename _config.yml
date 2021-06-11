@@ -62,12 +62,15 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Homozygoat_"
-    - label: "GitHub"
+    - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
       url: "https://twitch.tv/homozygoat"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/maweinma"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-TikTok"
+      url: "https://www.tiktok.com/@homozygoatttv?"
 
 timezone: America/New_York
 minimal_mistakes_skin: contrast
