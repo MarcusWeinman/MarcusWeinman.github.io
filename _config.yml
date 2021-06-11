@@ -27,7 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   I hope to convince you to do the same.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: homozygoat_
+twitter:
+  username: "Homozygoat_"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
@@ -35,12 +36,34 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      date_format: "%Y-%m-%d"
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+        provider: "disqus"
+        disqus:
+          shortname: "lab-bench-on-the-left"
+      share: true
+      related: true
+  
+atom_feed:
+  hide: true
+
+timezone: America/New_York
 minimal_mistakes_skin: contrast
 repository: "marcusweinman/marcusweinman.github.io"
 teaser: /assets/images/red neuron.png
 logo: "/assets/images/marcus_head.png"
 masthead_title: "Lab Bench on the Left"
-
+search: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
