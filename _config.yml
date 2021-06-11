@@ -56,7 +56,7 @@ atom_feed:
 author:
   name     : "Marcus Weinman"
   avatar   : "/assets/images/marcus_head.png"
-  bio      : "Current PhD student at the University of Vermont. Here is where I communicate about the latest issues in science from a leftist perspective."
+  bio      : "Current PhD student at the University of Vermont. Here is where I communicate about the latest issues in science from a leftist perspective. Stay a while and listen."
   location : "Burlington, Vermont"
   links:
     - label: "Twitter"
@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/maweinma"
     - label: "TikTok"
-      icon: "fab fa-TikTok"
+      icon: "fab fa-fw fa-tiktok"
       url: "https://www.tiktok.com/@homozygoatttv?"
 
 timezone: America/New_York
