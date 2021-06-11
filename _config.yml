@@ -58,7 +58,16 @@ author:
   avatar   : "/assets/images/marcus_head.png"
   bio      : "Current PhD student at the University of Vermont. All hot takes are my own."
   location : "Burlington, Vermont"
-
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Homozygoat_"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://twitch.tv/homozygoat"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/maweinma"
 
 timezone: America/New_York
 minimal_mistakes_skin: contrast
