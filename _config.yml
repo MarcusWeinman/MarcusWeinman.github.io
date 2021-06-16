@@ -75,10 +75,11 @@ author:
 timezone: America/New_York
 minimal_mistakes_skin: contrast
 repository: "marcusweinman/marcusweinman.github.io"
-teaser: /assets/images/red neuron.png
+teaser: /assets/images/red_neuron.png
 logo: "/assets/images/marcus_head.png"
 masthead_title: "Lab Bench on the Left"
 search: true
+locale: "en-US"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
