@@ -80,6 +80,7 @@ logo: "/assets/images/marcus_head.png"
 masthead_title: "Lab Bench on the Left"
 search: true
 locale: "en-US"
+include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
