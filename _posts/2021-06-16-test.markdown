@@ -2,6 +2,7 @@
 layout: single
 title:  "My first post"
 date:   2021-06-16
+category: blog
 ---
 
 test post pls ignore
