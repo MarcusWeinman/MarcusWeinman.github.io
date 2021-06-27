@@ -12,7 +12,8 @@ Graduate students were soon bombarded with emails that prompted us to stay in or
 
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/Bench.jpg" alt="">
-Rough representation of where I thought I'd drop dead.
+
+{: .fs-10 } Rough representation of where I thought I'd drop dead.
 {: refdef}
 
 Several days later, the governor issued a superseding stay-at-home order. I thought that now I was surely safe.
@@ -27,6 +28,7 @@ That semester I, ironically, had to teach a microbiology lab comprised of roughl
 
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/Respirator.jpg" alt="">
+
 A dummy with a respirator, AKA me.
 {: refdef}
 
@@ -36,6 +38,7 @@ As Spring semester began, vaccine rollout did as well, which provided me enough 
 
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/Chocolate.jpg" alt="">
+
 The peppermint oil makes the dread go down smooth.
 {: refdef}
 
