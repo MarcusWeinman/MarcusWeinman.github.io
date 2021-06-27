@@ -11,7 +11,7 @@ As cases began to rise in Vermont during early March, my anxiety grew as well. R
 Graduate students were soon bombarded with emails that prompted us to stay in or return to our laboratories in the name of “research enterprise” despite undergraduates being told to stay home. We were not told what qualified as essential work and whether we were essential ourselves. My anxiety transformed into terror as I was being forced to return to my lab for dubious reasons in the early stages of a global pandemic.
 
 {:refdef: style="text-align: center;"}
-![Bench][{{marcusweinman.github.io}}/assets/Bench.JPG]
+![Bench](/assets/Bench.jpg)
 Rough representation of where I thought I'd drop dead.
 {: refdef}
 
@@ -26,7 +26,7 @@ This forced me and other concerned graduate students to act. We reached out to o
 That semester I, ironically, had to teach a microbiology lab comprised of roughly thirty students, in-person, in a room with no windows and little ventilation. My fear remained, and it pushed me to, perhaps irrationally, purchase a half-face respirator for greater protection. I wore this while teaching for the entire semester.
 
 {:refdef: style="text-align: center;"}
-![Respirator][{{marcusweinman.github.io}}/assets/Respirator.JPG]
+![Respirator](/assets/Respirator.jpg)
 A dummy with a respirator, AKA me.
 {: refdef}
 
@@ -35,7 +35,7 @@ I remember walking into the room wearing my respirator, lab coat, and face shiel
 As Spring semester began, vaccine rollout did as well, which provided me enough hope to get through the year. The university held its annual “Graduate Student Appreciation Week” during this semester. For all the stress instilled in me by their decision making, I had hoped they would at least recognize the difficulty and risk of teaching in-person during the pandemic. I was given a $25 gift card and a chocolate bar. In fact, I was one of the “lucky” few who even got a gift card at all.
 
 {:refdef: style="text-align: center;"}
-![Chocolate][{{marcusweinman.github.io}}/assets/Chocolate.JPG]
+![Chocolate](/assets/Chocolate.jpg)
 The peppermint oil makes the dread go down smooth.
 {: refdef}
 
