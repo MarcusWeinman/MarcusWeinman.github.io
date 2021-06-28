@@ -4,6 +4,8 @@ title:  "A new “normal”: reflections on working as graduate student during t
 date:   2021-06-16
 category: blog
 ---
+$type-size-8                  : 0.625em !default;  // ~10px
+
 In February 2020, I stood worriedly in a Costco parking lot after stocking up on food. I fumbled around to get my vibrating phone out of my pocket and saw “it’s just going to be a flu” on the lock screen. A close friend had texted me not to worry about the newly documented cases of COVID-19 in the US, but my wrenching gut precluded me from doing so. I had a sinking suspicion that things were going to get worse.
 
 As cases began to rise in Vermont during early March, my anxiety grew as well. Rumors abound of cases in specific buildings and laboratories. Surreptitious emails discussing outbreaks were forwarded between PIs and graduate students alike. Panic was spreading faster than the virus itself. Eventually, my university stepped in and locked down campus. I thought I was safe.
@@ -13,7 +15,7 @@ Graduate students were soon bombarded with emails that prompted us to stay in or
 {:refdef: style="text-align: center;"}
 <img src="/assets/images/Bench.jpg" alt="">
 
-{: .fs-10 } Rough representation of where I thought I'd drop dead.
+Rough representation of where I thought I'd drop dead.
 {: refdef}
 
 Several days later, the governor issued a superseding stay-at-home order. I thought that now I was surely safe.
